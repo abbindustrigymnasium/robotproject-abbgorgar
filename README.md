@@ -9,5 +9,7 @@ This is my arduino project for a robot car, which can go through a labyrinth.
 * MQTT files are in the folder called _**MQTT**_.
 * Video with explanations is _** **_.
 
+## Help
+
 To be able to use arduino code you must install libraries in arduino. Names of libraries are in arduino code.
 For MQTT you must install _**node modules**_, _**mosca**_ and _**nodemon**_.
