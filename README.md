@@ -7,7 +7,7 @@ This is my arduino project for a robot car, which can go through a labyrinth.
 * Arduino code is the file called _**robot_test**_.
 * Functions are described in diagram in the file _**RobotBil Sekvensschema.vsd**_.
 * MQTT files are in the folder called _**MQTT**_.
-* Video with explanations is _** **_.
+* Video with explanations is _**robot_video.mp4**_.
 
 ## Help
 
